@@ -218,6 +218,13 @@
                               "a_parameter_2": "entryTag8850",
                               "a_parameter_3": null,
                               "a_parameter_4": null
+                            },
+                            {
+                              "a_script": "gaEnableDisableTrigger.cs",
+                              "a_parameter_1": "newTrigger_8829",
+                              "a_parameter_2": "false",
+                              "a_parameter_3": null,
+                              "a_parameter_4": null
                             }
                           ],
                           "conditions": [],

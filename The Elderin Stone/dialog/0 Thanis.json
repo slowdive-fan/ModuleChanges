@@ -355,6 +355,20 @@
                               "a_parameter_2": null,
                               "a_parameter_3": null,
                               "a_parameter_4": null
+                            },
+                            {
+                              "a_script": "gaEnableDisableTrigger.cs",
+                              "a_parameter_1": "newTrigger_4806",
+                              "a_parameter_2": "false",
+                              "a_parameter_3": null,
+                              "a_parameter_4": null
+                            },
+                            {
+                              "a_script": "gaEnableDisableTrigger.cs",
+                              "a_parameter_1": "newTrigger_8829",
+                              "a_parameter_2": "false",
+                              "a_parameter_3": null,
+                              "a_parameter_4": null
                             }
                           ],
                           "conditions": [],
@@ -1288,10 +1302,17 @@
                                                                               "a_parameter_4": null
                                                                             },
                                                                             {
-                                                                              "a_script": "gaEnableDisableTriggerEvent.cs",
+                                                                              "a_script": "gaEnableDisableTrigger.cs",
                                                                               "a_parameter_1": "newTrigger_4806",
-                                                                              "a_parameter_2": "1",
-                                                                              "a_parameter_3": "false",
+                                                                              "a_parameter_2": "false",
+                                                                              "a_parameter_3": null,
+                                                                              "a_parameter_4": null
+                                                                            },
+                                                                            {
+                                                                              "a_script": "gaEnableDisableTrigger.cs",
+                                                                              "a_parameter_1": "newTrigger_8829",
+                                                                              "a_parameter_2": "false",
+                                                                              "a_parameter_3": null,
                                                                               "a_parameter_4": null
                                                                             }
                                                                           ],
@@ -1396,6 +1417,20 @@
                                                                                       "a_script": "gaRemovePropByTag.cs",
                                                                                       "a_parameter_1": "newPropTag_8816_8818",
                                                                                       "a_parameter_2": null,
+                                                                                      "a_parameter_3": null,
+                                                                                      "a_parameter_4": null
+                                                                                    },
+                                                                                    {
+                                                                                      "a_script": "gaEnableDisableTrigger.cs",
+                                                                                      "a_parameter_1": "newTrigger_4806",
+                                                                                      "a_parameter_2": "false",
+                                                                                      "a_parameter_3": null,
+                                                                                      "a_parameter_4": null
+                                                                                    },
+                                                                                    {
+                                                                                      "a_script": "gaEnableDisableTrigger.cs",
+                                                                                      "a_parameter_1": "newTrigger_8829",
+                                                                                      "a_parameter_2": "false",
                                                                                       "a_parameter_3": null,
                                                                                       "a_parameter_4": null
                                                                                     }
@@ -1675,6 +1710,20 @@
                                       "a_script": "gaRemovePropByTag.cs",
                                       "a_parameter_1": "newPropTag_8816_8818",
                                       "a_parameter_2": null,
+                                      "a_parameter_3": null,
+                                      "a_parameter_4": null
+                                    },
+                                    {
+                                      "a_script": "gaEnableDisableTrigger.cs",
+                                      "a_parameter_1": "newTrigger_4806",
+                                      "a_parameter_2": "false",
+                                      "a_parameter_3": null,
+                                      "a_parameter_4": null
+                                    },
+                                    {
+                                      "a_script": "gaEnableDisableTrigger.cs",
+                                      "a_parameter_1": "newTrigger_8829",
+                                      "a_parameter_2": "false",
                                       "a_parameter_3": null,
                                       "a_parameter_4": null
                                     }
@@ -2325,6 +2374,13 @@
                                                           "a_script": "gaDoEncounterByTag.cs",
                                                           "a_parameter_1": "Level 0 BC L2",
                                                           "a_parameter_2": null,
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaEnableDisableTrigger.cs",
+                                                          "a_parameter_1": "newTrigger_4806",
+                                                          "a_parameter_2": "false",
                                                           "a_parameter_3": null,
                                                           "a_parameter_4": null
                                                         }

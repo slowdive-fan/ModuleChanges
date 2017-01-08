@@ -2100,7 +2100,7 @@
     "doDamage": true,
     "damType": "Cold",
     "damNumOfDice": 1,
-    "damDie": 3,
+    "damDie": 2,
     "damAdder": 0,
     "damAttacksEveryNLevels": 1,
     "damAttacksAfterLevelN": 1,

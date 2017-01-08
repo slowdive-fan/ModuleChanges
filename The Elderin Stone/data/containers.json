@@ -162,6 +162,15 @@
         "isLightSource": false,
         "isRation": false,
         "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20188",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
       }
     ]
   },
@@ -354,6 +363,15 @@
         "isLightSource": false,
         "isRation": false,
         "quantity": 20
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20190",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
       }
     ]
   },
@@ -472,6 +490,15 @@
         "canNotBeUnequipped": false,
         "isLightSource": false,
         "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20191",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
         "quantity": 1
       }
     ]
@@ -673,6 +700,15 @@
         "canNotBeUnequipped": false,
         "isLightSource": false,
         "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20189",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
         "quantity": 1
       }
     ]
@@ -923,6 +959,61 @@
       {
         "resref": "magicarrow",
         "tag": "newTag_13478_13724",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 1 Bandit Camp",
+    "containerItemRefs": [
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_20174",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_20175",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20176",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 1 Secret Chest",
+    "containerItemRefs": [
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_20181",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_20182",
         "name": "Spirit Arrow",
         "canNotBeUnequipped": false,
         "isLightSource": false,
