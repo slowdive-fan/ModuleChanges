@@ -1,0 +1,115 @@
+[
+  {
+    "Name": "The Archaeologist ",
+    "Tag": "catTag8848",
+    "Entries": [
+      {
+        "EntryTitle": "Gerrin Winvale",
+        "EntryText": "We must rescue the King's Archaeologist, Gerrin Winvale, from a group of bandits in Mirthal Forest. He has important information about the Elderin Temple. We may deal with the bandits as we like.",
+        "Tag": "entryTag8849",
+        "EntryId": 0,
+        "EndPoint": false
+      },
+      {
+        "EntryTitle": "The Temple Password",
+        "EntryText": "Gerrin Winvale did not survive his capture by the bandits. Before he died, he gave us the password to the Elderin Temple: \"Sevantis\". He also mentioned something about a \"Vandrid\", but he was largely incoherant about it.",
+        "Tag": "entryTag8850",
+        "EntryId": 0,
+        "EndPoint": true
+      }
+    ]
+  },
+  {
+    "Name": "A Dark Task",
+    "Tag": "catTag8851",
+    "Entries": [
+      {
+        "EntryTitle": "The Druids of Nuan",
+        "EntryText": "The bandit's leader, Lennil, has tasked me with killing a group of Druids to the north of the Mirthal Forest. In return, he will let me have Gerrin Winvale.",
+        "Tag": "entryTag8852",
+        "EntryId": 0,
+        "EndPoint": false
+      }
+    ]
+  },
+  {
+    "Name": "The Elderin Stone",
+    "Tag": "catTag8858",
+    "Entries": [
+      {
+        "EntryTitle": "Retrieving the Stone",
+        "EntryText": "We have been tasked with recovering an Elderin Stone from an ancient temple in the Mirthal Forest. Apparently the Stone has powers that could heal the King... although there is considerable scepticism amongst the King's advisors that Elderin Stones actually exist.",
+        "Tag": "Stone1",
+        "EntryId": 0,
+        "EndPoint": false
+      },
+      {
+        "EntryTitle": "The Temple",
+        "EntryText": "We have gained access to the temple of the Elderin and are searching it for an Elderin Stone. ",
+        "Tag": "entryTag9447",
+        "EntryId": 0,
+        "EndPoint": true
+      }
+    ]
+  },
+  {
+    "Name": "The Stone Man",
+    "Tag": "catTag8865",
+    "Entries": [
+      {
+        "EntryTitle": "Statue or Man?",
+        "EntryText": "We found a surprisingly lifelike statue in the Mirthall Forest. We suspect it was once a man. Perhaps there is way to reverse whatever spell has been cast upon him.",
+        "Tag": "entryTag8866",
+        "EntryId": 0,
+        "EndPoint": false
+      },
+      {
+        "EntryTitle": "Man!",
+        "EntryText": "We used a \"Stone to Flesh\" scroll to reverse the magic and return the man to his normal form. It sounds like the unfortunate hero was petrified by a basilisk. He has now wandered back to civilisation.",
+        "Tag": "entryTag8868",
+        "EntryId": 0,
+        "EndPoint": false
+      }
+    ]
+  },
+  {
+    "Name": "Dalamar",
+    "Tag": "catTag13029",
+    "Entries": [
+      {
+        "EntryTitle": "Dalamar's Journal 1",
+        "EntryText": "I have found torn pages from the journal of a man called Dalamar, who came here from Blackwinter on a quest some months back.",
+        "Tag": "entryTag13030",
+        "EntryId": 0,
+        "EndPoint": false
+      },
+      {
+        "EntryTitle": "Dalamar's Journal 2",
+        "EntryText": "I have found more pages from Dalamar's journal. It appears that he was looking for lost books on demonology that might be within the Great Library of the temple.",
+        "Tag": "entryTag13031",
+        "EntryId": 0,
+        "EndPoint": false
+      },
+      {
+        "EntryTitle": "Dalamar's Journal 3",
+        "EntryText": "I found more pages from Dalamar's journal. It appears that he came to the Temple to research the works of an ancient Elderin demonologist called Mier Mantis.",
+        "Tag": "entryTag13034",
+        "EntryId": 0,
+        "EndPoint": false
+      }
+    ]
+  },
+  {
+    "Name": "The Tomb of Belascarin",
+    "Tag": "catTag13349",
+    "Entries": [
+      {
+        "EntryTitle": "The Bow of Belascarin",
+        "EntryText": "I have found a book in the library that talks about the tomb of a legendary hero called Belascarin, somewhere deeper inside the temple. He was buried with his legendary magic bow.",
+        "Tag": "entryTag13350",
+        "EntryId": 0,
+        "EndPoint": false
+      }
+    ]
+  }
+]

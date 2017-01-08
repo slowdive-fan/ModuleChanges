@@ -1,0 +1,934 @@
+[
+  {
+    "containerTag": "Bandit Chest",
+    "containerItemRefs": [
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_12835",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_12836",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Cocooned Bandit",
+    "containerItemRefs": [
+      {
+        "resref": "chainmail",
+        "tag": "chainmail_5135",
+        "name": "Chainmail Armor",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "lbow1",
+        "tag": "lbow1_5136",
+        "name": "Long Bow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_5137",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Lennil's Chest",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfProtection1",
+        "tag": "ringOfProtection_7103",
+        "name": "Ring of Protection +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_7104",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 0 Island",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfProtection2",
+        "tag": "newTag_7131_7133",
+        "name": "Ring of Protection +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 2 Chest",
+    "containerItemRefs": [
+      {
+        "resref": "CMail2",
+        "tag": "CMail2_5391",
+        "name": "Chainmail +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 2 Cocoon",
+    "containerItemRefs": [
+      {
+        "resref": "Rope",
+        "tag": "Ropey_5578",
+        "name": "Rope and climbing spikes",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13087",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 2 Hidden Room",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfFireResist",
+        "tag": "ringOfFireResist_5585",
+        "name": "Ring of Fire Resistance",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 2 Stairs Chest",
+    "containerItemRefs": [
+      {
+        "resref": "fireSling",
+        "tag": "fireSling_5398",
+        "name": "Sling of Fire",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_20118",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 3 Archivist's Room",
+    "containerItemRefs": [
+      {
+        "resref": "macedisrupt",
+        "tag": "newTag_13131_13133",
+        "name": "Mace of Disruption",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13134",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 3 Spider Treasure",
+    "containerItemRefs": [
+      {
+        "resref": "LS2",
+        "tag": "newTag_5021_6021",
+        "name": "Large Shield +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "elvishshortsword",
+        "tag": "elvishshortsword_6022",
+        "name": "Elvish Short Sword +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 4 Cleverclogs",
+    "containerItemRefs": [
+      {
+        "resref": "Circclever",
+        "tag": "newTag_6571_6577",
+        "name": "Circlet of Intellect +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "studdedLeather",
+        "tag": "studdedLeather_7641",
+        "name": "Studded Leather Armor",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "Gate1",
+        "tag": "newTag_7609_7643",
+        "name": "Gate Key",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 4 Interconnection",
+    "containerItemRefs": [
+      {
+        "resref": "AmSt",
+        "tag": "newTag_6347_6349",
+        "name": "Amulet of Strength +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "largeshield",
+        "tag": "largeshield_13108",
+        "name": "Large Shield",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_13482",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 4 Longthin",
+    "containerItemRefs": [
+      {
+        "resref": "AmCon2",
+        "tag": "newTag_6528_6533",
+        "name": "Amulet of Constitution +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_6534",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_6535",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13095",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 4b Guards",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfProtection2",
+        "tag": "newTag_7131_7768",
+        "name": "Ring of Protection +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "robesfire",
+        "tag": "robfir_7769",
+        "name": "Robes of Resistance",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "GOK1",
+        "tag": "GOK_9303",
+        "name": "Green Orb Key",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_13483",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 4b Warden",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfProtection1",
+        "tag": "ringOfProtection_7819",
+        "name": "Ring of Protection +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ROK",
+        "tag": "newTag_7817_7820",
+        "name": "Red Orb Key",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5 Blood Pool",
+    "containerItemRefs": [
+      {
+        "resref": "healingPotionExtra",
+        "tag": "healingPotionExtra_7377",
+        "name": "Extra Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_7378",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_7379",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13097",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_13484",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5 Hidden Away",
+    "containerItemRefs": [
+      {
+        "resref": "AmDex",
+        "tag": "newTag_6863_6865",
+        "name": "Amulet of Dexterity +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_6866",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_6867",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5 secret secret",
+    "containerItemRefs": [
+      {
+        "resref": "AmDef2",
+        "tag": "newTag_9fdf_9124",
+        "name": "Amulet of Defence +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5b Crystal",
+    "containerItemRefs": [
+      {
+        "resref": "Ass1",
+        "tag": "newTag_8073_12422",
+        "name": "Inert Elderin Stone",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5b goodies",
+    "containerItemRefs": [
+      {
+        "resref": "AmInt2",
+        "tag": "newTag_8055_8060",
+        "name": "Amulet of Intelligence +2",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "robesfiregreat",
+        "tag": "newTag_8057_8061",
+        "name": "Greater Robes of Resistance",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "fireSling",
+        "tag": "fireSling_8062",
+        "name": "Sling of Fire",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 5b PreBattle",
+    "containerItemRefs": [
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_8045",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_8046",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_8047",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_8048",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13099",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 6 West",
+    "containerItemRefs": [
+      {
+        "resref": "ringOfProtection3",
+        "tag": "newTag_8184_8191",
+        "name": "Ring of Protection +3",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "larmor3",
+        "tag": "newTag_8186_8192",
+        "name": "The Prince's Leather",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "arrow",
+        "tag": "arrow_8196",
+        "name": "Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13103",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "The Druid's Chest",
+    "containerItemRefs": [
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_4991",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "spPotion",
+        "tag": "spPotion_4992",
+        "name": "Spell Points Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "RingPoison",
+        "tag": "newTag_5139_7140",
+        "name": "Ring of Poison Resistance",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13071",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "The Ogre's Lair",
+    "containerItemRefs": [
+      {
+        "resref": "AmCon",
+        "tag": "AmCon1_4388",
+        "name": "Amulet of Constitution +1",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "sling",
+        "tag": "sling_4714",
+        "name": "Sling",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "The Wizard's Chest",
+    "containerItemRefs": [
+      {
+        "resref": "StF",
+        "tag": "newTag_4679_4682",
+        "name": "Scroll of Stone to Flesh",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "healingPotion",
+        "tag": "healingPotion_4683",
+        "name": "Healing Potion",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "AxJ1",
+        "tag": "AxJ_8755",
+        "name": "Axin's Journal",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_13485",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "0 Ration Chest",
+    "containerItemRefs": [
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13079",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13080",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13081",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13082",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13083",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_18897",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_18898",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "larmor1",
+        "tag": "larmor1_19334",
+        "name": "Leather Armor",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "larmor1",
+        "tag": "larmor1_19335",
+        "name": "Leather Armor",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "lsword01",
+        "tag": "lsword01_19336",
+        "name": "Long Sword",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "lsword01",
+        "tag": "lsword01_19337",
+        "name": "Long Sword",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "mace",
+        "tag": "mace_19338",
+        "name": "Mace",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "chainmail",
+        "tag": "chainmail_19339",
+        "name": "Chainmail Armor",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "largeshield",
+        "tag": "largeshield_19340",
+        "name": "Large Shield",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "largeshield",
+        "tag": "largeshield_19341",
+        "name": "Large Shield",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "sling",
+        "tag": "sling_19342",
+        "name": "Sling",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "stone",
+        "tag": "stone_19343",
+        "name": "Stone",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      },
+      {
+        "resref": "lbow1",
+        "tag": "lbow1_19344",
+        "name": "Long Bow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 1
+      },
+      {
+        "resref": "arrow",
+        "tag": "arrow_19345",
+        "name": "Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "containerTag": "Level 3 Store Room",
+    "containerItemRefs": [
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13089",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "containerTag": "Dalamar1",
+    "containerItemRefs": [
+      {
+        "resref": "ration",
+        "tag": "newTag_13066_13723",
+        "name": "Rations",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": true,
+        "quantity": 1
+      },
+      {
+        "resref": "magicarrow",
+        "tag": "newTag_13478_13724",
+        "name": "Spirit Arrow",
+        "canNotBeUnequipped": false,
+        "isLightSource": false,
+        "isRation": false,
+        "quantity": 20
+      }
+    ]
+  }
+]
