@@ -23,7 +23,7 @@
           "NodePortraitBitmap": "Blackwinterstreets.png",
           "NodeNpcName": "",
           "NodeSound": "none",
-          "conversationText": "You leave the Dire Rat tavern in good spirits. It is a filthy den of ill repute, but the ale is strong and the food is warm. You have had a fairly relaxing evening.\r\n\r\nThe streets of Blackwinter appear dark and empty, but they have a sinister reputation and you feel like you're being watched. You put your heads down and hurry back to your lodgings near the Tellfor Gate.",
+          "conversationText": "You leave the Dire Rat tavern in good spirits. It is a filthy den of ill repute, but the ale is strong and the food is warm. You have had a relaxing evening.\r\n\r\nThe streets of Blackwinter appear dark and empty, but they have a sinister reputation and you feel like you're being watched. You put your heads down and hurry back to your lodgings near the Tellfor Gate.",
           "IsExpanded": true,
           "subNodes": [
             {
@@ -179,7 +179,7 @@
                                                           "NodePortraitBitmap": "",
                                                           "NodeNpcName": "",
                                                           "NodeSound": "none",
-                                                          "conversationText": "Dorian shifts uncomfortably in his chair. \"Needless to say, the expedition didn't go well. There are bandits in the Mirthal Forest, and by all accounts Winvale managed to get himself captured before he even got to the temple.\"\r\n\r\n\"The King cannot hear of this: in his state, the news would likely kill him. So it falls on me to sort out the mess for him.\" ",
+                                                          "conversationText": "Dorian shifts uncomfortably in his chair. \"Needless to say, the expedition didn't go well. There are bandits in the Mirthal Forest, and by all accounts Winvale managed to get himself captured before he even got to the temple.\"\r\n\r\n\"The King cannot hear of this: in his current state the news would likely kill him. So it falls on me to sort out the mess for him.\" ",
                                                           "IsExpanded": true,
                                                           "subNodes": [
                                                             {

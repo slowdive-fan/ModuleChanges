@@ -98,13 +98,6 @@
                       "a_parameter_2": "1",
                       "a_parameter_3": null,
                       "a_parameter_4": null
-                    },
-                    {
-                      "a_script": "gaSetGlobalInt.cs",
-                      "a_parameter_1": "Deadal",
-                      "a_parameter_2": "1",
-                      "a_parameter_3": null,
-                      "a_parameter_4": null
                     }
                   ],
                   "conditions": [],

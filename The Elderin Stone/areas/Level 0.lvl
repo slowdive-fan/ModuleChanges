@@ -94650,7 +94650,7 @@
   "AreaSounds": "Forest",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 771,
+  "NextIdNumber": 772,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],

@@ -49,7 +49,7 @@
                   "NodePortraitBitmap": "",
                   "NodeNpcName": "",
                   "NodeSound": "none",
-                  "conversationText": "You glance through the journal entries curiously. The pages are torn and soaked and largely unreadable, but you catch the occasional sentence here and there. \r\n\r\nMost of the entries are dated from several months back, and detail Dalamar's efforts to find funding for some sort of mission that would take him out of the city of Blackwinter. It isn't clear whether he managed to raise the gold or not.",
+                  "conversationText": "You glance through the journal entries curiously. The pages are torn and soaked and largely unreadable, but you catch the occasional sentence here and there. \r\n\r\nMost of the entries are dated from several months back, and detail Dalamar's efforts to find funding for some sort of mission that would require him to leave the city of Blackwinter. It isn't clear whether he managed to raise the gold or not.",
                   "IsExpanded": true,
                   "subNodes": [
                     {

@@ -1010,15 +1010,6 @@
         "isLightSource": false,
         "isRation": true,
         "quantity": 1
-      },
-      {
-        "resref": "magicarrow",
-        "tag": "newTag_13478_20182",
-        "name": "Spirit Arrow",
-        "canNotBeUnequipped": false,
-        "isLightSource": false,
-        "isRation": false,
-        "quantity": 20
       }
     ]
   }

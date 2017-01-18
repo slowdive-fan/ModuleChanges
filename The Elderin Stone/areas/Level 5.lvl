@@ -12498,7 +12498,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -22338,7 +22338,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -22420,7 +22420,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -30046,7 +30046,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -30128,7 +30128,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -37754,7 +37754,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -37836,7 +37836,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -49603,7 +49603,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -50095,7 +50095,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -51120,7 +51120,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -51448,7 +51448,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -52678,7 +52678,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -52842,7 +52842,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -53006,7 +53006,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -56532,7 +56532,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -56696,7 +56696,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -56860,7 +56860,7 @@
     {
       "Layer0Filename": "t_blank",
       "Layer1Filename": "stonewall",
-      "Layer2Filename": "dungeontorch",
+      "Layer2Filename": "stonewall",
       "Layer3Filename": "t_blank",
       "Layer4Filename": "t_blank",
       "Layer5Filename": "t_blank",
@@ -68994,7 +68994,7 @@
   "AreaSounds": "Game Cavern Loopv2",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 856,
+  "NextIdNumber": 864,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],

@@ -153,7 +153,7 @@
           "NodePortraitBitmap": "",
           "NodeNpcName": "",
           "NodeSound": "none",
-          "conversationText": "You have found a campfire. Resting here will consume one ration. \r\n\r\n<font color='red'> You don't have enough rations to rest. </font> \r\n<font color='white'>\r\n\r\n",
+          "conversationText": "You have found a campfire. Resting here will consume one ration. \r\n\r\n<font color='red'>You don't have enough rations to rest. </font> \r\n<font color='white'>\r\n\r\n",
           "IsExpanded": true,
           "subNodes": [
             {

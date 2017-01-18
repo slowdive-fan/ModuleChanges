@@ -48310,7 +48310,7 @@
   "AreaSounds": "none",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 848,
+  "NextIdNumber": 853,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],

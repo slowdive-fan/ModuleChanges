@@ -205,7 +205,7 @@
                                                                   "NodePortraitBitmap": "",
                                                                   "NodeNpcName": "",
                                                                   "NodeSound": "none",
-                                                                  "conversationText": "\"I don't really know. I think so. I... well, I need to get home. Whatever is left of it. Twenty bloody years, by the gods.\" \r\n\r\nOlren looks a little unsteady on his feet. \r\n\r\n\"You have my thanks, <FirstName>. I don't have much to give you in return, but take this key. An old elf sold it to me and Geoffrey and told us it opened a door somewhere deep in this forest.... in an old temple, he said. I'm never going to use it now.\" ",
+                                                                  "conversationText": "\"I don't really know. I think so. I... well, I need to get home. Whatever is left of it. Twenty bloody years, by the gods.\" \r\n\r\nOlren looks a little unsteady on his feet. \r\n\r\n\"You have my thanks, <FirstName>. I don't have much to give you in return, but take this key. An old elf told me that it opens a door somewhere deep in this forest.... in an old temple, he said. I'm never going to use it now.\" ",
                                                                   "IsExpanded": true,
                                                                   "subNodes": [
                                                                     {
@@ -485,7 +485,7 @@
                                                   "NodePortraitBitmap": "",
                                                   "NodeNpcName": "",
                                                   "NodeSound": "none",
-                                                  "conversationText": "Olren looks a little unsteady on his feet. \r\n\r\n\"I don't have much to give you.\" He pats down his pockets. \"Here, take this key. An old elf sold it to me and Geoffrey and told us it opened a door somewhere deep in this forest.... in an old temple, he said. I'm never going to use it now.\" ",
+                                                  "conversationText": "Olren looks a little unsteady on his feet. \r\n\r\n\"I don't have much to give you.\" He pats down his pockets. \"Here, take this key. An old elf told me that it opens a door somewhere deep in this forest.... in an old temple, he said. I'm never going to use it now.\" ",
                                                   "IsExpanded": true,
                                                   "subNodes": [
                                                     {

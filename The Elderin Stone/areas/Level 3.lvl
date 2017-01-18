@@ -60653,7 +60653,7 @@
   "AreaSounds": "none",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 1006,
+  "NextIdNumber": 1012,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],

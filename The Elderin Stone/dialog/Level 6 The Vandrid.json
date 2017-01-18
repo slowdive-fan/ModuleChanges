@@ -222,41 +222,37 @@
                                                       "NodeSound": "none",
                                                       "conversationText": "\"After what you did to Dalamar this is the least you deserve. Farewell, imp.\"",
                                                       "IsExpanded": true,
-                                                      "subNodes": [
+                                                      "subNodes": [],
+                                                      "actions": [
                                                         {
-                                                          "idNum": 116,
-                                                          "orderNum": 0,
-                                                          "pcNode": false,
-                                                          "linkTo": 0,
-                                                          "ShowOnlyOnce": false,
-                                                          "NodeIsActive": true,
-                                                          "NodePortraitBitmap": "",
-                                                          "NodeNpcName": "",
-                                                          "NodeSound": "none",
-                                                          "conversationText": "Continue",
-                                                          "IsExpanded": true,
-                                                          "subNodes": [],
-                                                          "actions": [
-                                                            {
-                                                              "a_script": "gaSetGlobalInt.cs",
-                                                              "a_parameter_1": "donedeal",
-                                                              "a_parameter_2": "1",
-                                                              "a_parameter_3": null,
-                                                              "a_parameter_4": null
-                                                            },
-                                                            {
-                                                              "a_script": "gaMovePartyToLastLocation.cs",
-                                                              "a_parameter_1": null,
-                                                              "a_parameter_2": null,
-                                                              "a_parameter_3": null,
-                                                              "a_parameter_4": null
-                                                            }
-                                                          ],
-                                                          "conditions": [],
-                                                          "isLink": false
+                                                          "a_script": "gaSetGlobalInt.cs",
+                                                          "a_parameter_1": "donedeal",
+                                                          "a_parameter_2": "1",
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaMovePartyToLastLocation.cs",
+                                                          "a_parameter_1": null,
+                                                          "a_parameter_2": null,
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaRemovePropByTag.cs",
+                                                          "a_parameter_1": "newPropTag_8251_8253",
+                                                          "a_parameter_2": null,
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaSetGlobalInt.cs",
+                                                          "a_parameter_1": "vandlives",
+                                                          "a_parameter_2": "1",
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
                                                         }
                                                       ],
-                                                      "actions": [],
                                                       "conditions": [],
                                                       "isLink": false
                                                     }
@@ -562,13 +558,6 @@
                               "a_script": "gaEnableDisableTrigger.cs",
                               "a_parameter_1": "newTrigger_8268",
                               "a_parameter_2": "false",
-                              "a_parameter_3": null,
-                              "a_parameter_4": null
-                            },
-                            {
-                              "a_script": "gaEnableDisableTrigger.cs",
-                              "a_parameter_1": "newTrigger_13540",
-                              "a_parameter_2": "true",
                               "a_parameter_3": null,
                               "a_parameter_4": null
                             },
@@ -1494,6 +1483,20 @@
                                                           "a_parameter_2": null,
                                                           "a_parameter_3": null,
                                                           "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaRemovePropByTag.cs",
+                                                          "a_parameter_1": "newPropTag_8251_8253",
+                                                          "a_parameter_2": null,
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
+                                                        },
+                                                        {
+                                                          "a_script": "gaSetGlobalInt.cs",
+                                                          "a_parameter_1": "vandlives",
+                                                          "a_parameter_2": "1",
+                                                          "a_parameter_3": null,
+                                                          "a_parameter_4": null
                                                         }
                                                       ],
                                                       "conditions": [],
@@ -1872,13 +1875,6 @@
                               "a_script": "gaEnableDisableTrigger.cs",
                               "a_parameter_1": "newTrigger_8268",
                               "a_parameter_2": "false",
-                              "a_parameter_3": null,
-                              "a_parameter_4": null
-                            },
-                            {
-                              "a_script": "gaEnableDisableTrigger.cs",
-                              "a_parameter_1": "newTrigger_13540",
-                              "a_parameter_2": "true",
                               "a_parameter_3": null,
                               "a_parameter_4": null
                             },
@@ -2706,5 +2702,5 @@
   "SpeakToMainPcOnly": false,
   "NpcPortraitBitmap": "6Vandrid.png",
   "DefaultNpcName": "",
-  "NextIdNum": 126
+  "NextIdNum": 127
 }

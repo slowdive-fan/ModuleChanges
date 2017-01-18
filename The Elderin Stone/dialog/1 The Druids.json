@@ -355,7 +355,7 @@
           "NodePortraitBitmap": "",
           "NodeNpcName": "",
           "NodeSound": "none",
-          "conversationText": "A tall woman in a deep purple robe steps out towards you. Behind her are a small ground of druids, who watch you nervously.\r\n\r\nShe holds up her hand haughtily, commanding you to stop. \"Halt! What are your intentions in this forest, <Race>?\"",
+          "conversationText": "A tall woman in a deep purple robe steps out towards you. Behind her are a small group of druids, who watch you nervously.\r\n\r\nShe holds up her hand haughtily, commanding you to stop. \"Halt! What are your intentions in this forest, <Race>?\"",
           "IsExpanded": true,
           "subNodes": [
             {
@@ -898,7 +898,7 @@
           "NodePortraitBitmap": "",
           "NodeNpcName": "",
           "NodeSound": "none",
-          "conversationText": "The tall woman steps out towards you, holding up her hand. Behind her are a small ground of druids, who watch you nervously.\r\n\r\n\"Why have you returned? You are not welcome here, explorers.\"",
+          "conversationText": "The tall woman steps out towards you, holding up her hand. Behind her are a small group of druids, who watch you nervously.\r\n\r\n\"Why have you returned? You are not welcome here, explorers.\"",
           "IsExpanded": true,
           "subNodes": [
             {
@@ -952,7 +952,7 @@
           "NodePortraitBitmap": "",
           "NodeNpcName": "",
           "NodeSound": "none",
-          "conversationText": "A tall woman in a deep purple robe steps out towards you. Behind her are a small ground of druids, who watch you nervously.\r\n\r\nShe holds up her hand haughtily, commanding you to stop. \"Halt! What are your intentions in this forest, <Race>?\"",
+          "conversationText": "A tall woman in a deep purple robe steps out towards you. Behind her are a small group of druids, who watch you nervously.\r\n\r\nShe holds up her hand haughtily, commanding you to stop. \"Halt! What are your intentions in this forest, <Race>?\"",
           "IsExpanded": true,
           "subNodes": [
             {

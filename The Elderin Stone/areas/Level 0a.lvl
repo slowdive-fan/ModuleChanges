@@ -10723,13 +10723,13 @@
       "Event3Parm4": "none"
     }
   ],
-  "AreaMusic": "none",
+  "AreaMusic": "Game Cavern Loopv2",
   "AreaMusicDelay": 0,
   "AreaMusicDelayRandomAdder": 0,
   "AreaSounds": "none",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 207,
+  "NextIdNumber": 217,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],

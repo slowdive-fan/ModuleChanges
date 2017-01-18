@@ -76639,7 +76639,7 @@
   "AreaSounds": "Forest",
   "AreaSoundsDelay": 0,
   "AreaSoundsDelayRandomAdder": 0,
-  "NextIdNumber": 692,
+  "NextIdNumber": 697,
   "OnHeartBeatIBScript": "none",
   "OnHeartBeatIBScriptParms": "",
   "AreaLocalInts": [],
